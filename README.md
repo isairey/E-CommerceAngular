@@ -186,7 +186,7 @@ Módulo de usuarios y autenticación.
 # 📂 Estructura del proyecto
 
 ```bash
-OnlineStoreAngular/
+E-CommerceAngular/
 │
 ├── src/
 │   ├── app/
@@ -226,7 +226,7 @@ OnlineStoreAngular/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/yourusername/online-store-angular.git
+git clone https://github.com/isairey/E-CommerceAngular.git
 ```
 
 ---
@@ -234,7 +234,7 @@ git clone https://github.com/yourusername/online-store-angular.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd online-store-angular
+cd E-CommerceAngular
 ```
 
 ---
@@ -391,7 +391,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Angular E-Commerce Developer
+## Isai Reyes - Angular E-Commerce Developer
 
 Desarrollador apasionado por plataformas e-commerce, interfaces modernas y experiencias web dinámicas 🚀
 
