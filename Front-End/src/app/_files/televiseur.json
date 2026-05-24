@@ -1,0 +1,58 @@
+[
+    {
+        "nom" : "SAMSUNG 32 \" SÉRIE 5",
+        "description": "TÉLÉVISEUR SAMSUNG 32 \" SÉRIE 5 SMART TV 2020",
+        "url":"../../assets/televiseur/img/tv11.jpg",
+        "prix":"799,000 DT",
+        "page":"../../assets/televiseur/SAMSUNG 32 SÉRIE 5.html"
+    },
+    {
+        "nom" : "SAMSUNG 43\" SÉRIE 5",
+        "description": "TÉLÉVISEUR SAMSUNG 43\" FULL HD SÉRIE 5",
+        "url":"../../assets/televiseur/img/tv21.jpg",
+        "prix":"1 299,000 DT",
+        "page":"../../assets/televiseur/SAMSUNG 43 SÉRIE 5.html"
+    },
+    {
+        "nom" : "LG 65\"",
+        "description": "TÉLÉVISEUR LG 65\" LED UHD 4K / SMART TV / WIFI / + COMMANDE SMART + RÉCEPTEUR INTÉGRÉ",
+        "url":"../../assets/televiseur/img/tv31.jpg",
+        "prix":"3 899,000 DT",
+        "page":"../../assets/televiseur/LG 65.html"
+    },
+    {
+        "nom" : "SAMSUNG 82\" SÉRIE 8",
+        "description": "TÉLÉVISEUR SAMSUNG 82\" SÉRIE 8 CRYSTAL UHD 4K / SMART TV 2020 / WIFI",
+        "url":"../../assets/televiseur/img/41.jpg",
+        "prix":"12 999,000 DT",
+        "page":"../../assets/televiseur/SAMSUNG 82 SÉRIE 8.html"
+    },
+    {
+        "nom" : "VEGA 32\"",
+        "description": "TÉLÉVISEUR VEGA 32\" HD LED / SMART TV / ANDROID + RÉCEPTEUR INTÉGRÉ",
+        "url":"../../assets/televiseur/img/tv51.jpg",
+        "prix":"619,000 DT",
+        "page":"../../assets/televiseur/VEGA 32.html"
+    },
+    {
+        "nom" : "SUPPORT MURAL ONYX",
+        "description": "SUPPORT MURAL ONYX POUR TV LED / LCD 14\"-46\"",
+        "url":"../../assets/televiseur/img/61.jpg",
+        "prix":"39,000 DT",
+        "page":"../../assets/televiseur/SUPPORT MURAL ONYX.html"
+    },
+    {
+        "nom" : "SUPPORT MURAL EVEREST TK-10",
+        "description": "SUPPORT MURAL EVEREST TK-10 POUR TÉLÉVISEUR 32\"-55\"",
+        "url":"../../assets/televiseur/img/7.jpg",
+        "prix":"14,500  DT",
+        "page":"../../assets/televiseur/SUPPORT MURAL EVEREST.html"
+    },
+    {
+        "nom" : "SUPPORT MURAL POUR TÉLÉVISEUR SBOX",
+        "description": "SUPPORT MURAL POUR TÉLÉVISEUR SBOX PLB-2264F / 37\"-70\"",
+        "url":"../../assets/televiseur/img/81.jpg",
+        "prix":"42,000  DT",
+        "page":"../../assets/televiseur/SUPPORT MURAL SBOX.html"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "nom" : "HP 15S-EQ1003NK",
+        "description": "PC PORTABLE HP 15S-EQ1003NK / AMD DUAL CORE / 4 GO / NOIR",
+        "url":"../../assets/ordinateur/img/21.jpg",
+        "prix":"990.000 DT",
+        "page":"../../assets/ordinateur/262C4EA.html"
+    },
+    {
+        "nom" : "HP PRO 300 G3",
+        "description": "PC DE BUREAU HP PRO 300 G3 / DUAL CORE GOLD / 12 GO",
+        "url":"../../assets/ordinateur/img/pc-de-bureau-hp-pro-300-g3-dual-core-gold-12-go.jpg",
+        "prix":"858,000 DT",
+        "page":"../../assets/ordinateur/9UG3EA-UN-12.html"
+    },
+    {
+        "nom" : "HP NOTEBOOK 15-DW2011NK",
+        "description": "PC PORTABLE HP NOTEBOOK 15-DW2011NK / I3 10È GÉN / 16 GO",
+        "url":"../../assets/ordinateur/img/10.png",
+        "prix":"1 472,000 DT",
+        "page":"../../assets/ordinateur/2S529EA-16.html"
+    },
+    {
+        "nom" : "HUAWEI MATEBOOK D15 2020",
+        "description": "PC PORTABLE HUAWEI MATEBOOK D15 2020 / RYZEN 7 / 8 GO",
+        "url":"../../assets/ordinateur/img/22.jpg",
+        "prix":"1 999,000 DT",
+        "page":"../../assets/ordinateur/53010WWH.html"
+    },
+    {
+        "nom" : "HP PROBOOK 450 G7",
+        "description": "PORTABLE HP PROBOOK 450 G7 / I5 10È GÉN / 4 GO",
+        "url":"../../assets/ordinateur/img/32.jpg",
+        "prix":"2 369,000 DT",
+        "page":"../../assets/ordinateur/8VU89EA.html"
+    },
+    {
+        "nom" : "MSI GF63-10SCXR",
+        "description": "PC PORTABLE GAMER MSI GF63 I5 10È GÉN 16GO 512 GO SSD (GF63-10SCXR-1089XFR-16G)",
+        "url":"../../assets/ordinateur/img/37.jpg",
+        "prix":"2 589,000 DT",
+        "page":"../../assets/ordinateur/GF63-10SCXR-1089XFR-16G.html"
+    },
+    {
+        "nom" : "MSI MODERN B10MW",
+        "description": "PC PORTABLE MSI MODERN B10MW / I7 10É GEN / 16 GO / NOIR",
+        "url":"../../assets/ordinateur/img/39.jpg",
+        "prix":"2 849,000 DT",
+        "page":"../../assets/ordinateur/MODERN14B10MW055XF.html"
+    },
+    {
+        "nom" : "HUAWEI MATEBOOK X PRO 2020",
+        "description": "PC PORTABLE HUAWEI MATEBOOK X PRO 2020 / I7 10È GÉN / 16 GO / ALUMINIUM + SOURIS HUAWEI AF30 OFFERTE",
+        "url":"../../assets/ordinateur/img/43.jpg",
+        "prix":"5 599,000 DT",
+        "page":"../../assets/ordinateur/53010VQC.html"
+    }
+]

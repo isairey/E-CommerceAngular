@@ -1,0 +1,58 @@
+[
+    {
+        "nom" : "AutoCollant Clavier",
+        "description": "AutoCollant Clavier Arabe - Couleur Noir",
+        "url":"../../assets/accessoire/img/ac8.jpg",
+        "prix":"1,000 DT",
+        "page":"../../assets/accessoire/AutoCollant.html"
+    },
+    {
+        "nom" : "HOCO M61",
+        "description": "ÉCOUTEURS STÉRÉO AVEC MICRO HOCO M61 / NOIR",
+        "url":"../../assets/accessoire/img/ac31.jpg",
+        "prix":"9,000 DT",
+        "page":"../../assets/accessoire/HOCO M61.html"
+    },
+    {
+        "nom" : "CLAVIER QWERTY BLUETOOTH EVEREST",
+        "description": "CLAVIER QWERTY BLUETOOTH EVEREST AVEC TOUCHPAD SANS FIL COMPATIBLE PC / SMART TV / CONSOLE JEUX",
+        "url":"../../assets/accessoire/img/ac11.jpg",
+        "prix":"59,000 DT",
+        "page":"../../assets/accessoire/CLAVIER EVEREST.html"
+    },
+        {
+        "nom" : "TAPIS SOURIS GAMING",
+        "description": "TAPIS SOURIS GAMING REDRAGON NEPTUNE XXL RGB / 800 X 300",
+        "url":"../../assets/accessoire/img/ac71.jpg",
+        "prix":"99,000 DT",
+        "page":"../../assets/accessoire/REDRAGON NEPTUNE XXL.html"
+    },
+    {
+        "nom" : "PACK GAMER REDRAGON",
+        "description": "PACK GAMER REDRAGON 4EN1 CLAVIER + SOURIS + TAPIS + CASQUE",
+        "url":"../../assets/accessoire/img/ac6.jpg",
+        "prix":"119,000 DT",
+        "page":"../../assets/accessoire/REDRAGON 4EN1.html"
+    },
+    {
+        "nom" : "HUAWEI FREEBUDS PRO",
+        "description": "ECOUTEURS SANS FIL HUAWEI FREEBUDS PRO - SILVER",
+        "url":"../../assets/accessoire/img/ac22.jpg",
+        "prix":"699,000 DT",
+        "page":"../../assets/accessoire/HUAWEI FREEBUDS PRO.html"
+    },
+    {
+        "nom" : "HUAWEI WATCH GT 2 PRO CLASSIQUE",
+        "description": "MONTRE CONNECTÉE HUAWEI WATCH GT 2 PRO CLASSIQUE",
+        "url":"../../assets/accessoire/img/ac41.jpg",
+        "prix":"1 169,000 DT",
+        "page":"../../assets/accessoire/HUAWEI WATCH GT 2 PRO.html"
+    },
+    {
+        "nom" : "SAMSUNG GALAXY WATCH 3",
+        "description": "MONTRE CONNECTÉE SAMSUNG GALAXY WATCH 3 / 45MM",
+        "url":"../../assets/accessoire/img/ac51.jpg",
+        "prix":"2 739,000 DT",
+        "page":"../../assets/accessoire/SAMSUNG GALAXY WATCH 3.html"
+    }
+]

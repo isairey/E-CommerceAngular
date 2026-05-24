@@ -1,0 +1,51 @@
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <map name="image-map">
+                <area target="_blank" alt="freebudspro" title="freebudspro" routerLink="/detail" (click)="detailprd('30')" coords="0,400,540,90" shape="rect">
+                <area target="_blank" alt="gt2pro" title="gt2pro" routerLink="/detail" (click)="detailprd('31')" coords="540,400,1649,90" shape="rect">
+            </map>
+            <img src="../../assets/img/offre.jpg" width="100%" usemap="#image-map" id="image"> 
+            <script type = "text/javascript">
+                var image = document.getElementById("image");
+                var currentPos = 0;
+                var images = ["../assets/img/offremsi.jpg","../../assets/img/offre.jpg","../../assets/img/offrerampage.png"];
+                function volgendefoto() {
+                    if (++currentPos >= images.length)
+                        currentPos = 0;
+    
+                    image.src = images[currentPos];
+                }
+                setInterval(volgendefoto, 3000);
+            </script>
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-12" id="marque">Les Marques</div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-lg-2 col-4">
+            <img src="../../assets/img/samsung.png" width="100%">
+        </div>
+        <div class="col-lg-2 col-4">
+            <img src="../../assets/img/huawei.png" width="100%">
+        </div>
+        <div class="col-lg-2 col-4">
+            <img src="../../assets/img/hp.png" width="100%">
+        </div>
+        <div class="col-lg-2 col-4">
+            <img src="../../assets/img/canon.png" width="100%">
+        </div>
+        <div class="col-lg-2 col-4">
+            <img src="../../assets/img/msi.png" width="100%">
+        </div>
+        <div class="col-lg-2 col-4">
+            <img src="../../assets/img/redragon.jpg" width="100%">
+        </div>
+    </div>
+</div>
+<br>
+<br>

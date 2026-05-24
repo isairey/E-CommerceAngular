@@ -1,0 +1,27 @@
+<div class="container">
+    <div  id="nos-produit">
+        <a routerLink="/accessoire">Nos Accessoires</a>
+    </div>
+    <app-pnavbar></app-pnavbar>
+    <div class="row">
+        <div class="col-sm-6 col-md-4 col-lg-3" *ngFor="let acc of accessoires">
+            <div class="card text-center" style="width: 17rem;">
+                <div class="card-body">
+                  <h5 class="card-title">{{acc.nom}}</h5>
+                  <br>
+                <div id="mainwrapper">
+                    <div id="box-4" class="box">
+                        <img id="image-4" [src]=acc.image width="100%">
+                        <span class="caption full-caption">
+                        <p>{{acc.description}}</p>
+                        </span>
+                    </div>
+                </div>
+                <br><br><br><br><br><br><br><br><br>Prix: {{acc.prix}} DT<br>
+                    <a type="button" routerLink="/detail" name="b1" [id]="acc.ref" class="btn" (click)="detailprd(acc.ref)" style="color: #38ADA9;">Details</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br><br>

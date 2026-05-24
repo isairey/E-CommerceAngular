@@ -1,0 +1,27 @@
+<div class="container">
+    <div  id="nos-produit">
+        <a routerLink="/telephone">Nos Telephones Protables</a>
+    </div>
+    <app-pnavbar></app-pnavbar>
+    <div class="row">
+        <div class="col-sm-6 col-md-4 col-lg-3" *ngFor="let tel of telephones">
+            <div class="card text-center" style="width: 17rem;">
+                <div class="card-body">
+                  <h5 class="card-title">{{tel.nom}}</h5>
+                  <br>
+                <div id="mainwrapper">
+                    <div id="box-4" class="box">
+                        <img id="image-4" [src]=tel.image width="100%">
+                        <span class="caption full-caption">
+                        <p>{{tel.description}}</p>
+                        </span>
+                    </div>
+                </div>
+                <br><br><br><br><br><br><br><br><br>Prix: {{tel.prix}} DT<br>
+                    <a type="button" routerLink="/detail" name="b1" [id]="tel.ref" class="btn" (click)="detailprd(tel.ref)" style="color: #38ADA9;">Details</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br><br>

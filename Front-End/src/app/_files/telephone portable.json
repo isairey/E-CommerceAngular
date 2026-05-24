@@ -1,0 +1,58 @@
+[
+    {
+        "nom" : "CLEVER F01",
+        "description": "TÉLÉPHONE PORTABLE CLEVER F01 - BLANC",
+        "url":"../../assets/telephone/img/48.jpg",
+        "prix":"49.000 DT",
+        "page":"../../assets/telephone/F01-WH.html"
+    },
+    {
+        "nom" : "DORO 2404",
+        "description": "TÉLÉPHONE PORTABLE DORO 2404 / DOUBLE SIM / ROUGE ET BLANC",
+        "url":"../../assets/telephone/img/50.jpg",
+        "prix":"95,000 DT",
+        "page":"../../assets/telephone/DORO2404-REDWHITE.html"
+    },
+    {
+        "nom" : "CONDOR GRIFFE T6",
+        "description": "TÉLÉPHONE PORTABLE CONDOR GRIFFE T6 / 4G / DOUBLE SIM / GRIS",
+        "url":"../../assets/telephone/img/55.png",
+        "prix":"189,000 DT",
+        "page":"../../assets/telephone/T6-GR.html"
+    },
+    {
+        "nom" : "CONDOR GRIFFE T9 PLUS",
+        "description": "TÉLÉPHONE PORTABLE CONDOR GRIFFE T9 PLUS / 4G / DOUBLE SIM / NOIR",
+        "url":"../../assets/telephone/img/56.png",
+        "prix":"329,000 DT",
+        "page":"../../assets/telephone/SP-647-BK.html"
+    },
+    {
+        "nom" : "SAMSUNG GALAXY A02",
+        "description": "TÉLÉPHONE PORTABLE SAMSUNG GALAXY A02 / NOIR",
+        "url":"../../assets/telephone/img/57.jpg",
+        "prix":"369,000 DT",
+        "page":"../../assets/telephone/SM-A02-BK.html"
+    },
+    {
+        "nom" : "SAMSUNG GALAXY A12",
+        "description": "TÉLÉPHONE PORTABLE SAMSUNG GALAXY A12 / NOIR + ABONNEMENT IPTV OTT PRO OFFERT",
+        "url":"../../assets/telephone/img/61.png",
+        "prix":"549,000 DT",
+        "page":"../../assets/telephone/SM-A12-BK.html"
+    },
+    {
+        "nom" : "HUAWEI Y8P",
+        "description": "TÉLÉPHONE PORTABLE HUAWEI Y8P / 4G / DOUBLE SIM / BREATHING CRYSTAL",
+        "url":"../../assets/telephone/img/70.png",
+        "prix":"699,000 DT",
+        "page":"../../assets/telephone/Y8P-BC.html"
+    },
+    {
+        "nom" : "SAMSUNG GALAXY Z FOLD 2",
+        "description": "TÉLÉPHONE PORTABLE SAMSUNG GALAXY Z FOLD 2 / BRONZE",
+        "url":"../../assets/telephone/img/65.jpg",
+        "prix":"7 199,000 DT",
+        "page":"../../assets/telephone/SM-ZFOLD2-BR.html"
+    }
+]

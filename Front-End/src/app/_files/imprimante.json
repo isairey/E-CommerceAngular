@@ -1,0 +1,58 @@
+[
+    {
+        "nom" : "HP SMART TANK 516",
+        "description": "IMPRIMANTE MULTIFONCTION JET D'ENCRE TOUT-EN-UN HP SMART TANK 516 / WIFI",
+        "url":"../../assets/imprimante/img/74.jpg",
+        "prix":"449,000 DT",
+        "page":"../../assets/imprimante/HP SMART TANK 516.html"
+    },
+    {
+        "nom" : "CANON PIXMA G3411",
+        "description": "IMPRIMANTE À RÉSERVOIR INTÉGRÉ COULEUR 3-EN-1 CANON PIXMA G3411 / WIFI",
+        "url":"../../assets/imprimante/img/79.jpg",
+        "prix":"549,000 DT",
+        "page":"../../assets/imprimante/CANON PIXMA G3411.html"
+    },
+    {
+        "nom" : "EPSON WORKFORCE PRO WF-5690DWF",
+        "description": "IMPRIMANTE MULTIFONCTION JET D'ENCRE 4-EN-1 EPSON WORKFORCE PRO WF-5690DWF",
+        "url":"../../assets/imprimante/img/83.jpg",
+        "prix":"779,000 DT",
+        "page":"../../assets/imprimante/EPSON WORKFORCE PRO WF-5690DWF.html"
+    },
+    {
+        "nom" : "HP DESIGNJET Z6DR",
+        "description": "IMPRIMANTE HP DESIGNJET Z6DR 44\" POSTSCRIPT PRINTER WITH V-TRIMMER",
+        "url":"../../assets/imprimante/img/87.jpg",
+        "prix":"24 715,000 DT",
+        "page":"../../assets/imprimante/HP DESIGNJET Z6DR 44.html"
+    },
+    {
+        "nom" : "HP LASERJET PRO M130NW",
+        "description": "IMPRIMANTE MULTIFONCTION HP LASERJET PRO M130NW NOIR&BLANC / WIFI",
+        "url":"../../assets/imprimante/img/im11.jpg",
+        "prix":"599,000 DT",
+        "page":"../../assets/imprimante/HP LASERJET PRO M130NW.html"
+    },
+    {
+        "nom" : "SHARP AR-B451T",
+        "description": "PHOTOCOPIEUR SHARP MULTIFONCTION MONOCHROME A4 AR-B451T",
+        "url":"../../assets/imprimante/img/im21.jpg",
+        "prix":"2 499,000 DT",
+        "page":"../../assets/imprimante/PHOTOCOPIEUR SHARP MULTIFONCTION.html"
+    },
+    {
+        "nom" : "HP 128A",
+        "description": "TONER ORIGINAL LASERJET HP 128A / NOIR",
+        "url":"../../assets/imprimante/img/im31.jpg",
+        "prix":"544,000 DT",
+        "page":"../../assets/imprimante/TONER ORIGINAL LASERJET.html"
+    },
+    {
+        "nom" : "RAME PAPIER NAVIGATOR A4",
+        "description": "RAME PAPIER NAVIGATOR A4 100G/M² / 500 FEUILLES",
+        "url":"../../assets/imprimante/img/im41.jpg",
+        "prix":"12,300 DT",
+        "page":"../../assets/imprimante/RAME PAPIER NAVIGATOR.html"
+    }
+]

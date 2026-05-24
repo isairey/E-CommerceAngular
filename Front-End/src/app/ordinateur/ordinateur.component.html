@@ -1,0 +1,27 @@
+<div class="container">
+    <div  id="nos-produit">
+        <a routerLink="/ordinateur">Nos Ordinateurs</a>
+    </div>
+    <app-pnavbar></app-pnavbar>
+    <div class="row">
+        <div class="col-sm-6 col-md-4 col-lg-3" *ngFor="let ord of ordinateurs">
+            <div class="card text-center" style="width: 17rem;">
+                <div class="card-body">
+                  <h5 class="card-title">{{ord.nom}}</h5>
+                  <br>
+                <div id="mainwrapper">
+                    <div id="box-4" class="box">
+                        <img id="image-4" [src]=ord.image width="100%">
+                        <span class="caption full-caption">
+                        <p>{{ord.description}}</p>
+                        </span>
+                    </div>
+                </div>
+                <br><br><br><br><br><br><br><br><br>Prix: {{ord.prix}} DT<br>
+                    <a type="button" routerLink="/detail" name="b1" [id]="ord.ref" class="btn" (click)="detailprd(ord.ref)" style="color: #38ADA9;">Details</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br><br>
